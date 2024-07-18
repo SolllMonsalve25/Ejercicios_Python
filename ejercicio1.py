@@ -8,3 +8,6 @@ print("-Albus Dumbledore")
 print('''La felicidad se puede encontrar hasta en los más oscuros momentos 
       si somos capaces de usar bienla luz. 
       -Albus Dumbledore''')
+
+variable = "Sol Monsalve"
+print(variable)
