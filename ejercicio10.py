@@ -4,4 +4,4 @@
 
 
 #su sintaxis, en java para definir los codigos se utilizan llaves "{}", en python es mas legible, al igual que 
-# sus palabras claves para definir 
+# sus palabras claves para definir, las librerias
